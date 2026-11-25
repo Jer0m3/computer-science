@@ -402,6 +402,7 @@ My own additions on top of OSSU: certifications and hands-on practice. See [cust
 
 Courses | Status
 :-- | :--:
+[Learning path: OSSU + practice in one order](custom/learning-path.md) | 🟡 in progress
 [SANS SEC555 / GIAC GCDA](custom/sec555-gcda.md) | 🟡 in preparation
 [Hands-on practice (Cryptopals, CTFs, blue team labs)](custom/practice.md) | ⬜ planned
 

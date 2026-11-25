@@ -2,6 +2,8 @@
 
 My own additions to the OSSU curriculum. Everything personal lives in this folder, so the rest of the repo can keep pulling updates from [ossu/computer-science](https://github.com/ossu/computer-science) without merge conflicts.
 
+**Start here:** [learning-path.md](learning-path.md) – the whole curriculum in one order, with the practice built in after each stage.
+
 Status legend: ✅ done · 🟡 in progress · ⬜ planned
 
 ## Certifications
