@@ -103,6 +103,7 @@ just remember that you can't purchase success!
   - [Advanced theory](#advanced-theory)
   - [Advanced information security](#advanced-information-security)
   - [Advanced math](#advanced-math)
+- [Custom extensions](#custom-extensions)
 - [Final project](#final-project)
 
 ---
@@ -394,6 +395,15 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
 [Probability](https://stat110.hsites.harvard.edu/) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/) | [chat](https://discord.gg/UVjs9BU)
+
+## Custom extensions
+
+My own additions on top of OSSU: certifications and hands-on practice. See [custom/README.md](custom/README.md).
+
+Courses | Status
+:-- | :--:
+[SANS SEC555 / GIAC GCDA](custom/sec555-gcda.md) | 🟡 in preparation
+[Hands-on practice (Cryptopals, CTFs, blue team labs)](custom/practice.md) | ⬜ planned
 
 ## Final project
 
